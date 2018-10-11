@@ -8,7 +8,7 @@
 > git checkout new_br
 > git branch
 > git merge new_br
->git branch -d new_br (for delete)
+> git branch -d new_br (for delete)
 > git log
 
 **** for mlab ******
