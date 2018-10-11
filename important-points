@@ -4,6 +4,13 @@
 > npm run dev
 > npm run prod
 
+> git branch new_br 
+> git checkout new_br
+> git branch
+> git merge new_br
+>git branch -d new_br (for delete)
+> git log
+
 **** for mlab ******
 node.testing
 Qwerty@123
